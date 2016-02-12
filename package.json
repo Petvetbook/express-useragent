@@ -1,11 +1,11 @@
 {
-  "name": "express-useragent",
+  "name": "morrr-express-useragent",
   "description": "ExpressJS/Connect/TrinteJS user-agent middleware exposing",
-  "version": "0.2.4",
-  "homepage": "https://github.com/biggora/express-useragent/",
+  "version": "0.1",
+  "homepage": "https://github.com/Petvetbook/morrr-express-useragent",
   "repository": {
     "type": "git",
-    "url": "git://github.com/biggora/express-useragent.git"
+    "url": "git@github.com:Petvetbook/morrr-express-useragent.git"
   },
   "licenses": [
     {
