@@ -1,7 +1,7 @@
 {
   "name": "morrr-express-useragent",
   "description": "Fast User-Agent exposing",
-  "version": "0.1",
+  "version": "0.2.5",
   "homepage": "https://github.com/Petvetbook/morrr-express-useragent",
   "repository": {
     "type": "git",
